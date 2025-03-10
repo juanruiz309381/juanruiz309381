@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **java, python, Angular, html, css**
 
-- 📫 How to reach me **juanda_201001@hotmail.com**
+- 📫 Check my personal GitHub <p href="https://github.com/DavidOlmos03">**DavidOlmos03**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
