@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **java, python, Angular, html, css**
 
-- 📫 Check my personal GitHub <p href="https://github.com/DavidOlmos03">**DavidOlmos03**</p>
+- 📫 Check my personal GitHub
+[![GitHub](https://img.shields.io/badge/GitHub-DavidOlmos03-181717?style=for-the-badge&logo=github)](https://github.com/DavidOlmos03)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
