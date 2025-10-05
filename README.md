@@ -7,8 +7,11 @@
 
 - 💬 Ask me about **java, python, Angular, html, css**
 
-- 📫 Check my personal GitHub  <br>
-[![GitHub](https://img.shields.io/badge/GitHub-DavidOlmos03-181717?style=for-the-badge&logo=github)](https://github.com/DavidOlmos03)
+- 📫 Check my other GitHub  accounts<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-DavidOlmos03-181717?style=for-the-badge&logo=github)](https://github.com/DavidOlmos03) <br>
+[![GitHub - UdeA](https://img.shields.io/badge/GitHub-davidROudea03-181717?style=for-the-badge&logo=github)](https://github.com/davidROudea03)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
